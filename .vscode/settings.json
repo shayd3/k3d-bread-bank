@@ -1,0 +1,14 @@
+{
+    "yaml.schemas": {
+        "file:///c%3A/Users/ryan.ross/AppData/Roaming/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode/sam.schema.json": [
+            "SAM-Tutorial/template.yml",
+            "template.yml",
+            "aws-serverless-pipeline-test/template.yaml",
+            "template.yaml"
+        ],
+        "https://raw.githubusercontent.com/rancher/k3d/main/pkg/config/config.versions.schema.json": [
+            "file:///Users/ryan/code/k3d-bread-bank/cluster.yml",
+            "file:///Users/ryan/code/k3d-bread-bank/assets/cluster.yml"
+        ]
+    }
+}
